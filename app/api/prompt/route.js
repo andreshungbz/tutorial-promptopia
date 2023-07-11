@@ -1,3 +1,4 @@
+import User from '@models/user';
 import Prompt from '@models/prompt';
 import { connectToDB } from '@utils/database';
 
